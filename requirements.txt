@@ -1,0 +1,9 @@
+jupyterlab
+numpy
+matplotlib
+pandas
+scipy
+pillow
+networkx
+ipywidgets
+openpyxl

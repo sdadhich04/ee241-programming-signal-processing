@@ -1,0 +1,36 @@
+# Python and Jupyter local state
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Generated outputs
+*.wav
+lab3/e*_output*.png
+output/
+outputs/
+generated/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Course/grading exports that should not be added later
+*Grades*
+*grades*
+*Gradescope*
+*gradescope*
+*rubric*
+*Rubric*
+*submission*
+*Submission*
+*.pdf
+*.pptx
